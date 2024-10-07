@@ -1,0 +1,11 @@
+//program 1
+//used to declare text
+/*hello this a test 
+program 
+for 
+cd 
+lab*/
+/*nandan 
+kumar
+hr*/
+//return 10;

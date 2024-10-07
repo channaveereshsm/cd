@@ -1,0 +1,21 @@
+//program 1
+
+int main()
+{
+int x;
+//used to declare text
+for(int i=0;i<n;i++);
+/*hello this a test 
+program 
+for 
+cd 
+lab*/
+
+/*nandan 
+kumar
+hr*/
+
+//return 10;
+return 0;
+
+}
